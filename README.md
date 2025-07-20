@@ -38,3 +38,15 @@ A passionate **Full Stack Web Developer** from India 🇮🇳
 
 </p>
 
+## 📊 GitHub Stats
+
+<!-- GitHub Stats Card -->
+![SumanthReddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanthReddy&show_icons=true&theme=react&hide_border=true)
+
+<!-- Most Used Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumanthReddy&layout=compact&theme=react&hide_border=true)
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=SumanthReddy&theme=react&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+
