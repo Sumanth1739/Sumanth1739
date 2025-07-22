@@ -2,7 +2,7 @@
 A passionate **Full Stack Web Developer** from India 🇮🇳  
 
 - 🔭 I’m currently working on **Full Stack Projects and Cloud Deployments**  
-- 🌱 I’m currently learning **AI, ML, and DevOps**  
+- 🌱 I’m fascinated to learn **AI, ML, and DevOps**  
 - 👨‍💻 All of my projects are available at [https://SumanthReddy.github.io/Portfolio/](https://SumanthReddy.github.io/Portfolio/)  
 - 📫 How to reach me: **sumanthreddysingamreddy11@gmail.com**  
 - 📄 Know about my experiences: [Resume Link](https://drive.google.com/your-resume-link)  
